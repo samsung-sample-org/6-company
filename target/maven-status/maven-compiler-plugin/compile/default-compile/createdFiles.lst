@@ -1,8 +1,0 @@
-com/ss/companyintro/repository/SampleRepository.class
-com/ss/companyintro/job/SampleQuartzJob.class
-com/ss/companyintro/CompanyIntroApplication.class
-com/ss/companyintro/config/HttpClientConfig.class
-com/ss/companyintro/entity/SampleEntity.class
-com/ss/companyintro/config/QuartzConfig.class
-com/ss/companyintro/config/CacheConfig.class
-com/ss/companyintro/controller/HealthCheckController.class

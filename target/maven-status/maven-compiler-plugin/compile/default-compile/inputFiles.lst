@@ -1,8 +1,0 @@
-/Users/jky/Documents/_ADC/samsung-sample-org/6-company-intro/src/main/java/com/ss/companyintro/CompanyIntroApplication.java
-/Users/jky/Documents/_ADC/samsung-sample-org/6-company-intro/src/main/java/com/ss/companyintro/config/CacheConfig.java
-/Users/jky/Documents/_ADC/samsung-sample-org/6-company-intro/src/main/java/com/ss/companyintro/config/HttpClientConfig.java
-/Users/jky/Documents/_ADC/samsung-sample-org/6-company-intro/src/main/java/com/ss/companyintro/config/QuartzConfig.java
-/Users/jky/Documents/_ADC/samsung-sample-org/6-company-intro/src/main/java/com/ss/companyintro/controller/HealthCheckController.java
-/Users/jky/Documents/_ADC/samsung-sample-org/6-company-intro/src/main/java/com/ss/companyintro/entity/SampleEntity.java
-/Users/jky/Documents/_ADC/samsung-sample-org/6-company-intro/src/main/java/com/ss/companyintro/job/SampleQuartzJob.java
-/Users/jky/Documents/_ADC/samsung-sample-org/6-company-intro/src/main/java/com/ss/companyintro/repository/SampleRepository.java
