@@ -260,7 +260,7 @@ Apache Commons Collections 3.x에는 역직렬화를 통한 원격 코드 실행
 ## 6. 프로젝트 구조
 
 ```
-6-company-intro/
+6-company/
 ├── Dockerfile                          # Multi-stage 빌드 (Maven → CentOS 7 + JDK 17)
 ├── docker-compose.yml                  # 앱 + Oracle XE 21c 구성
 ├── pom.xml                             # 전체 의존성 정의 (ASIS→TOBE 주석 포함)
